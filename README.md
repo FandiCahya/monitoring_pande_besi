@@ -13,8 +13,6 @@ Aplikasi ini dibangun dengan menggunakan **Flutter**, sebuah framework yang memu
 ![Logo Aplikasi](assets/images/3.png)
 
 ## Screenshot Aplikasi
-
-Berikut adalah tampilan antarmuka aplikasi:
 ![Tampilan](assets/images/tampilanaplikasi.jpg)
 
 ## Foto Dengan Mitra
