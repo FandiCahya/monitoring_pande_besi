@@ -15,3 +15,5 @@ Berikut adalah tampilan antarmuka aplikasi:
 
 
 ## Foto Dengan Mitra
+![Foto Mitra 1](assets/images/mitra1.jpg)
+![Foto Mitra 2](assets/images/mitra2.jpg)
