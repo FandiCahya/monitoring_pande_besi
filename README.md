@@ -1,6 +1,6 @@
 # Monitoring Pande Besi
 
-Aplikasi **Monitoring Pande Besi** adalah solusi canggih yang dirancang untuk memantau berbagai parameter penting di industri pengecoran logam. Aplikasi ini memberikan informasi real-time tentang:
+Aplikasi **Monitoring Pande Besi** adalah solusi canggih yang dirancang untuk memantau berbagai parameter penting di industri pembuatan pisau. Aplikasi ini memberikan informasi real-time tentang:
 
 - **Asap**: Memantau tingkat asap untuk memastikan kepatuhan terhadap standar lingkungan dan kesehatan.
 - **Kadar Debu**: Mengukur kadar debu di udara untuk menjaga kualitas lingkungan kerja.
