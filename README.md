@@ -9,10 +9,13 @@ Aplikasi **Monitoring Pande Besi** adalah solusi canggih yang dirancang untuk me
 
 Aplikasi ini dibangun dengan menggunakan **Flutter**, sebuah framework yang memungkinkan pengembangan aplikasi lintas platform dengan antarmuka pengguna yang menarik dan responsif. Kami bekerja sama dengan mitra di Tulungagung untuk implementasi dan integrasi solusi ini.
 
+## Logo Aplikasi
+![Logo Aplikasi](assets/images/3.png)
+
 ## Screenshot Aplikasi
 
 Berikut adalah tampilan antarmuka aplikasi:
-
+![Logo Aplikasi](assets/images/tampilan aplikasi.jpg)
 
 ## Foto Dengan Mitra
 ![Foto Mitra 1](assets/images/mitra1.jpg)
